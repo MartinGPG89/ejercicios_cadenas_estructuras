@@ -27,7 +27,25 @@ print(saludar('Martin'))
 # Crea una función llamada al_cuadrado() que reciba una lista de números
 # y devuelva una nueva lista con los números elevados al cuadrado.
 def al_cuadrado(lista):
-    pass
+    
+    new_list_cuadrado = []
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Ejercicio 3
